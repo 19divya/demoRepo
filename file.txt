@@ -1,1 +1,4 @@
+
+file.txt from feature1
 file.txt feature2
+
